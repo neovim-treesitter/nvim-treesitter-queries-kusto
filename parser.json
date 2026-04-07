@@ -1,7 +1,6 @@
 {
-  "parser_version": "8353a1296607d6ba33db7c7e312226e5fc83e8ce",
-  "location": null,
-  "url": "https://github.com/Willem-J-an/tree-sitter-kusto",
   "lang": "kusto",
-  "semver": false
+  "url": "https://github.com/Willem-J-an/tree-sitter-kusto",
+  "semver": false,
+  "parser_version": "8353a1296607d6ba33db7c7e312226e5fc83e8ce"
 }
